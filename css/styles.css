@@ -60,14 +60,13 @@ h4 {
 p {
   font-family: "Open Sans Light";
   color: white;
-  
   font-size: 110%;
 
 }
 
 html {
   
-    background: url(https://daredallas.github.io/Travelar/images/2017-08-18%2014.47.21.jpg) no-repeat center center fixed; 
+    background: url(https://raw.githubusercontent.com/daredallas/Travelar/master/images/2017-08-18%2014.47.21.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
