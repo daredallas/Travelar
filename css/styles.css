@@ -71,6 +71,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-color: #1c1c1c;
   /* background-position: center center; > */              /* optional, center the image */
 }
 
