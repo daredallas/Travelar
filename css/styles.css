@@ -50,7 +50,7 @@ h2 {
   margin: 100px, 10px , 10px , 10px;
 }
 
-h4 {
+h3 {
   font-family: "Open Sans";
   color: white;
 
@@ -85,3 +85,9 @@ a:hover {
   color: #c1c1c1 ;
 }
 
+.avatar {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+
+}
