@@ -9,8 +9,8 @@ div.centered_content {
 
 
   max-width: 90%;
-  /*min-width: 20%;
-  */text-align: center;
+
+  text-align: center;
   color: white;
   
   
@@ -30,6 +30,11 @@ div.p {
   margin-bottom: 40px;
   font-style: italic;
   
+}
+
+#menu {
+  width: 700px;
+  max-width: 90%;
 }
 
 .other-color {
@@ -89,7 +94,7 @@ a:hover {
 
 .avatar {
   border-radius: 50%;
-  height: 150px;
-  width: 150px;
+  height: 180px;
+  width: 180px;
 
 }
