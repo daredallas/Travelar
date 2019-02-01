@@ -4,14 +4,13 @@ div.centered_content {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 700px;
   margin-top: 10%;
 
 
-  min-width: 40%;
-  max-width: 50%;
-  width: 60%;
-  text-align: center;
+  max-width: 90%;
+  /*min-width: 20%;
+  */text-align: center;
   color: white;
   
   
@@ -21,6 +20,7 @@ div.p {
   font-family: "Open Sans";
   color: white;
   font-size: 90%;
+
 }
 
 #signature {
@@ -60,6 +60,8 @@ p {
   font-family: "Open Sans Light";
   color: white;
   font-size: 110%;
+  padding-right: auto;
+  padding-left: auto;
 
 }
 
