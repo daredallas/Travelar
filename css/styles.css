@@ -64,7 +64,7 @@ h3 {
 p {
   font-family: "Open Sans Light";
   color: white;
-  font-size: 110%;
+  font-size: 100%;
   padding-right: auto;
   padding-left: auto;
 
@@ -86,6 +86,7 @@ a {
   color: white;
   font-family: "Open Sans";
   text-decoration: none;
+  font-size: 105%;
 }
 
 a:hover {
